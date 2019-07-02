@@ -1,0 +1,1 @@
+This repository contains various small projects that will have served to better my understanding of 3d rendering in general and three.js specifically.
